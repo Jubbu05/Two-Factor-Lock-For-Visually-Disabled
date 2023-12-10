@@ -1,0 +1,15 @@
+{
+  "virat": {
+    "category": "Normal"
+  },
+  "nitish": {
+    "category": "Blind",
+    "pin": 1234
+  },
+  "jubbu": {
+    "category": "Normal"
+  },
+  "nimit": {
+    "category": "Normal"
+  }
+}
